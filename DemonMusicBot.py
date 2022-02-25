@@ -33,8 +33,8 @@ def start(client, message):
         quote=False,
         reply_markup=InlineKeyboardMarkup(
             [[
-                    InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/Botsinator'),
-                    InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/SongVideoDowlanderAzPlayList}')
+                    InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/TSK_resmi'),
+                    InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/TSKSongKanal}')
                   ],[
                     InlineKeyboardButton('Sahib 👨🏻‍💻', url=f'https://t.me/coolnorman}')
                 ]
@@ -52,8 +52,8 @@ def help(client, message):
         quote=False,
         reply_markup=InlineKeyboardMarkup(
             [[
-                    InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/Botsinator'),
-                    InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/SongVideoDowlanderAzPlayList}')
+                    InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/TSK_resmi'),
+                    InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/TSKSongKanal}')
                   ],[
                     InlineKeyboardButton('Sahib 👨🏻‍💻', url=f'https://t.me/coolnorman}')
                 ]
